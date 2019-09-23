@@ -159,3 +159,7 @@ export default connect(
   null,
   mapDispatchToProps
 )(AddPatient);
+
+
+
+//use default value

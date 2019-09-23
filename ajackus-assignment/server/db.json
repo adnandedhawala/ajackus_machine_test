@@ -34,6 +34,13 @@
       "password": "12345",
       "status": "patient",
       "id": 5
+    },
+    {
+      "name": "JIGAR PANDYA",
+      "email": "jigar@gmail.com",
+      "password": "12345",
+      "status": "patient",
+      "id": 6
     }
   ],
   "patient_details": [
@@ -41,24 +48,24 @@
       "name": "NEHA TANDON",
       "age": "31",
       "gender": "female",
-      "medicines": "qwertyuiopzxcvbnm,qwertyuio",
+      "medicines": "crosin",
       "dob": "2000-09-03",
-      "address": "qwertyuiop[",
-      "symptoms": "qwertyuiopasdfghjklwertyuio",
+      "address": "Thane, Hiranandani Estate",
+      "symptoms": "cold cough high fever",
       "date_last_visited": "2019-02-23",
       "doctor_id": "1",
       "id": 1
     },
     {
-      "name": "GURKEERAT SINGH",
-      "age": "78",
+      "name": "JIGAR PANDYA",
+      "age": "65",
       "gender": "male",
-      "medicines": "qwertyuikjhgfdzxcvbnm",
-      "dob": "2013-11-11",
-      "address": "qwertyuiopasdfghjklzxcvbnm,",
-      "symptoms": "qwertyuiopasdfghjzxcvbn",
-      "date_last_visited": "2019-10-10",
-      "doctor_id": "3",
+      "medicines": "dfghjcvbnfghjvbnm",
+      "dob": "2000-08-22",
+      "address": "qwertyuioasdfghxc ",
+      "symptoms": "qwertyuizxcvbn dfghj nhjk",
+      "date_last_visited": "2019-02-16",
+      "doctor_id": "1",
       "id": 2
     }
   ]
